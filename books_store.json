@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Don quixote",
+        "author": "Miguel de Cervantes",
+        "year": 1605,
+        "isbn": 867501,
+        "price": 40.0,
+        "quantity": 4,
+        "bookAddedAt": "12-12-2024-17:14-50"
+    },
+    {
+        "title": "The stranger",
+        "author": "Albert Camus",
+        "year": 1990,
+        "isbn": 711220,
+        "price": 30.0,
+        "quantity": 4,
+        "bookAddedAt": "12-12-2024-17:15-56"
+    }
+]
